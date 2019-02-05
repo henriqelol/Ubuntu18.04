@@ -5,6 +5,11 @@ echo "Ver versão do Sistema ? [S][N]"
 read versao
 [ "$versao" == "S" ] && sh versao.sh
 
+echo -e "[1] Executar por etapas\n[2] Executar todos comandos/programas de uma vez"
+read saida
+if [$saida == 1]
+then
+
 echo ""
 echo "Atualizar o Sistema ? [S][N]"
 read att
@@ -28,7 +33,7 @@ read google
 echo ""
 echo "Instalar Virtualbox ? [S][N]"
 read Vb
-[ "$Vb" == "S" ] && sh Virtualbox.sh
+[ "$Vb" == "S" ] && sh virtualbox.sh
 
 echo ""
 echo "Instalar Vagrant ? [S][N]"
@@ -37,3 +42,18 @@ read Vg
 
 echo ""
 echo "!!--INSTALAÇÃO FINALIZADA--!!"
+
+else
+echo "Execução completa"
+
+sh atualizacao.sh
+sh network.sh
+sh editores.sh
+sh chrome.sh
+sh virtualbox.sh
+sh vagrant.sh
+
+echo ""
+echo "!!--INSTALAÇÃO FINALIZADA--!!"
+
+fi
