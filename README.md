@@ -19,32 +19,32 @@ Abaixos os comandos e programas proposto:
 sh versao.sh
 ~~~
 
-### Atualizar o Sistema
+### [Atualizar o Sistema](https://github.com/henriqelol/Ubuntu18.04/blob/master/atualizacao.sh)
 ~~~
 sh atualizacao.sh
 ~~~
 
-### Instalar ferramentas de rede/SSH
+### [Instalar ferramentas de rede/SSH](https://github.com/henriqelol/Ubuntu18.04/blob/master/network.sh)
 ~~~
 sh network.sh
 ~~~
 
-### Instalar editores de texto (VIM/Subl)
+### [Instalar editores de texto (VIM/Subl)](https://github.com/henriqelol/Ubuntu18.04/blob/master/editores.sh)
 ~~~
 sh editores.sh
 ~~~
 
-### Instalar Google Chrome
+### [Instalar Google Chrome](https://github.com/henriqelol/Ubuntu18.04/blob/master/chrome.sh)
 ~~~
 sh chrome.sh
 ~~~
 
-### Instalar Virtualbox
+### [Instalar Virtualbox](https://github.com/henriqelol/Ubuntu18.04/blob/master/virtualbox.sh)
 ~~~
 sh virtualbox.sh
 ~~~
 
-### Instalar Vagrant
+### [Instalar Vagrant](https://github.com/henriqelol/Ubuntu18.04/blob/master/vagrant.sh)
 ~~~
 sh vagrant.sh
 ~~~
