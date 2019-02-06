@@ -14,7 +14,7 @@ Para executar todos os programas de uma unica vez, execute os comando:
 
 Abaixos os comandos e programas proposto:
 
-### Versão da distribuição
+### [Versão da distribuição](https://github.com/henriqelol/Ubuntu18.04/blob/master/versao.sh)
 ~~~
 sh versao.sh
 ~~~
@@ -29,22 +29,22 @@ sh atualizacao.sh
 sh network.sh
 ~~~
 
-### Instalar editores de texto (VIM/Subl)"
+### Instalar editores de texto (VIM/Subl)
 ~~~
 sh editores.sh
 ~~~
 
-### Instalar Google Chrome"
+### Instalar Google Chrome
 ~~~
 sh chrome.sh
 ~~~
 
-### Instalar Virtualbox"
+### Instalar Virtualbox
 ~~~
 sh virtualbox.sh
 ~~~
 
-### Instalar Vagrant"
+### Instalar Vagrant
 ~~~
 sh vagrant.sh
 ~~~
