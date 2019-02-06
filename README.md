@@ -9,7 +9,7 @@ sudo su
 
 Para executar todos os programas de uma unica vez, execute os comando:
 ~~~
-./ install.sh
+sh install.sh
 ~~~
 
 Abaixos os comandos e programas proposto:
