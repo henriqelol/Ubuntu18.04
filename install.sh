@@ -47,6 +47,26 @@ if [[ "$saida" == '1' ]];then
 	[ "$Vg" == "S" ] && sh vagrant.sh
 
 	echo ""
+	echo "Instalar Gufw firewall ? [S][N]"
+	read gufw
+	[ "$gufw" == "S" ] && sh gufw.sh
+
+	echo ""
+	echo "Instalar o pacote Ubuntu Restricted Extras ? [S][N]"
+	read ure
+	[ "$ure" == "S" ] && sh ure.sh
+
+	echo ""
+	echo "Instalar VLC ? [S][N]"
+	read vlc
+	[ "$vlc" == "S" ] && sh vlc.sh
+
+	echo ""
+	echo "Instalar gparted ? [S][N]"
+	read gp
+	[ "$gp" == "S" ] && sh gparted.sh
+
+	echo ""
 	echo "!!--INSTALAÇÃO FINALIZADA--!!"
 
 else
@@ -58,6 +78,10 @@ else
 	sh chrome.sh
 	sh virtualbox.sh
 	sh vagrant.sh
+	sh gufw.sh
+	sh ure.sh
+	sh vlc.sh
+	sh gparted.sh
 
 	echo ""
 	echo "!!--INSTALAÇÃO FINALIZADA--!!"
