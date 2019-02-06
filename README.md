@@ -9,7 +9,7 @@ sudo su
 
 Para executar todos os programas de uma unica vez, execute os comando:
 ~~~
-sh install.sh
+bash ./install.sh
 ~~~
 
 Abaixos os comandos e programas proposto:
@@ -24,7 +24,7 @@ sh versao.sh
 sh atualizacao.sh
 ~~~
 
-### [Instalar ferramentas de rede/SSH](https://github.com/henriqelol/Ubuntu18.04/blob/master/network.sh)
+### [Instalar ferramentas de rede/SSH/Git](https://github.com/henriqelol/Ubuntu18.04/blob/master/network.sh)
 ~~~
 sh network.sh
 ~~~
