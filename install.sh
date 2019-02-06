@@ -22,6 +22,11 @@ if [[ "$saida" == '1' ]];then
 	[ "$network" == "S" ] && sh network.sh
 
 	echo ""
+	echo "Instalar Git e Gitkraken ? [S][N]"
+	read git
+	[ "$git" == "S" ] && sh git.sh
+
+	echo ""
 	echo "Instalar editores de texto (VIM/Subl) ? [S][N]"
 	read edit
 	[ "$edit" == "S" ] && sh editores.sh
