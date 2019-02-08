@@ -18,11 +18,10 @@ bash ./install.sh
 
 Abaixos os comandos e programas proposto:
 
-### [Versão da distribuição](https://linuxize.com/post/how-to-check-your-ubuntu-version/)
+### [Versão da distribuição](https://linuxize.com/post/how-to-check-your-ubuntu-version/)<sup>[code](https://github.com/henriqelol/Ubuntu18.04/blob/master/versao.sh)</sup>
 ~~~
 sh versao.sh
 ~~~
-[.](https://github.com/henriqelol/Ubuntu18.04/blob/master/versao.sh)
 
 ### [Atualizar o Sistema](https://github.com/henriqelol/Ubuntu18.04/blob/master/atualizacao.sh)
 ~~~
