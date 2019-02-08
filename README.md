@@ -106,3 +106,5 @@ sh netbeans.sh
 ~~~
 sh r.sh
 ~~~
+
+%teste
