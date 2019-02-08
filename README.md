@@ -23,88 +23,86 @@ Abaixos os comandos e programas proposto:
 sh versao.sh
 ~~~
 
-### [Atualizar o Sistema](https://github.com/henriqelol/Ubuntu18.04/blob/master/atualizacao.sh)
+### [Atualizar o Sistema](https://www.cyberciti.biz/faq/how-do-i-update-ubuntu-linux-softwares/)<sup>[code](https://github.com/henriqelol/Ubuntu18.04/blob/master/atualizacao.sh)</sup>
 ~~~
 sh atualizacao.sh
 ~~~
 
-### [Instalar ferramentas de rede/SSH](https://github.com/henriqelol/Ubuntu18.04/blob/master/network.sh)
+### [Instalar ferramentas de rede](https://www.ubuntuupdates.org/net-tools)/[SSH](https://linuxize.com/post/how-to-enable-ssh-on-ubuntu-18-04/)<sup>[code](https://github.com/henriqelol/Ubuntu18.04/blob/master/network.sh)</sup>
 ~~~
 sh network.sh
 ~~~
 
-### [Instalar Git e Gitkraken](https://github.com/henriqelol/Ubuntu18.04/blob/master/git.sh)
+### [Instalar Git](https://www.digitalocean.com/community/tutorials/how-to-install-git-on-ubuntu-18-04-quickstart) e [Gitkraken](https://www.techrepublic.com/article/how-to-install-and-use-gitkraken-on-ubuntu-with-snap/)<sup>[code](https://github.com/henriqelol/Ubuntu18.04/blob/master/git.sh)</sup>
 ~~~
 sh git.sh
 ~~~
 
-### [Instalar editores de texto (VIM/Subl)](https://github.com/henriqelol/Ubuntu18.04/blob/master/editores.sh)
+### [Instalar editores de texto (VIM/Subl)](https://github.com/henriqelol/Ubuntu18.04/blob/master/editores.sh)<sup>[code]()</sup>
 ~~~
 sh editores.sh
 ~~~
 
-### [Instalar Google Chrome](https://github.com/henriqelol/Ubuntu18.04/blob/master/chrome.sh)
+### [Instalar Google Chrome](https://github.com/henriqelol/Ubuntu18.04/blob/master/chrome.sh)<sup>[code]()</sup>
 ~~~
 sh chrome.sh
 ~~~
 
-### [Instalar Virtualbox](https://github.com/henriqelol/Ubuntu18.04/blob/master/virtualbox.sh)
+### [Instalar Virtualbox](https://github.com/henriqelol/Ubuntu18.04/blob/master/virtualbox.sh)<sup>[code]()</sup>
 ~~~
 sh virtualbox.sh
 ~~~
 
-### [Instalar Vagrant](https://github.com/henriqelol/Ubuntu18.04/blob/master/vagrant.sh)
+### [Instalar Vagrant](https://github.com/henriqelol/Ubuntu18.04/blob/master/vagrant.sh)<sup>[code]()</sup>
 ~~~
 sh vagrant.sh
 ~~~
 
-### [Instalar Gufw firewall](https://github.com/henriqelol/Ubuntu18.04/blob/master/firewall.sh)
+### [Instalar Gufw firewall](https://github.com/henriqelol/Ubuntu18.04/blob/master/firewall.sh)<sup>[code]()</sup>
 ~~~
 sh gufw.sh
 ~~~
 
-### [Instalar o pacote Ubuntu Restricted Extras](https://github.com/henriqelol/Ubuntu18.04/blob/master/ure.sh)
+### [Instalar o pacote Ubuntu Restricted Extras](https://github.com/henriqelol/Ubuntu18.04/blob/master/ure.sh)<sup>[code]()</sup>
 ~~~
 sh ure.sh 
 ~~~
 
-### [Instalar VLC](https://github.com/henriqelol/Ubuntu18.04/blob/master/vlc.sh)
+### [Instalar VLC](https://github.com/henriqelol/Ubuntu18.04/blob/master/vlc.sh)<sup>[code]()</sup>
 ~~~
 sh vlc.sh 
 ~~~
 
-### [Instalar gparted](https://github.com/henriqelol/Ubuntu18.04/blob/master/gparted.sh)
+### [Instalar gparted](https://github.com/henriqelol/Ubuntu18.04/blob/master/gparted.sh)<sup>[code]()</sup>
 ~~~
 sh gparted.sh
 ~~~
 
-### [Instalar CUDA](https://github.com/henriqelol/Ubuntu18.04/blob/master/cuda.sh)
+### [Instalar CUDA](https://github.com/henriqelol/Ubuntu18.04/blob/master/cuda.sh)<sup>[code]()</sup>
 ~~~
 sh cuda.sh
 ~~~
-### [Instalar Eclipse](https://github.com/henriqelol/Ubuntu18.04/blob/master/eclipse.sh)
+### [Instalar Eclipse](https://github.com/henriqelol/Ubuntu18.04/blob/master/eclipse.sh)<sup>[code]()</sup>
 ~~~
 sh eclipse.sh
 ~~~
-### [Instalar Firewall](https://github.com/henriqelol/Ubuntu18.04/blob/master/firewall.sh)
+### [Instalar Firewall](https://github.com/henriqelol/Ubuntu18.04/blob/master/firewall.sh)<sup>[code]()</sup>
 ~~~
 sh firewall.sh
 ~~~
-### [Instalar GIT](https://github.com/henriqelol/Ubuntu18.04/blob/master/git.sh)
+### [Instalar GIT](https://github.com/henriqelol/Ubuntu18.04/blob/master/git.sh)<sup>[code]()</sup>
 ~~~
 sh git.sh
 ~~~
-### [Instalar LXD](https://github.com/henriqelol/Ubuntu18.04/blob/master/lxd.sh)
+### [Instalar LXD](https://github.com/henriqelol/Ubuntu18.04/blob/master/lxd.sh)<sup>[code]()</sup>
 ~~~
 sh lxd.sh
 ~~~
-### [Instalar Netbeans](https://github.com/henriqelol/Ubuntu18.04/blob/master/netbeans.sh)
+### [Instalar Netbeans](https://github.com/henriqelol/Ubuntu18.04/blob/master/netbeans.sh)<sup>[code]()</sup>
 ~~~
 sh netbeans.sh
 ~~~
-### [Instalar R](https://github.com/henriqelol/Ubuntu18.04/blob/master/r.sh)
+### [Instalar R](https://github.com/henriqelol/Ubuntu18.04/blob/master/r.sh)<sup>[code]()</sup>
 ~~~
 sh r.sh
 ~~~
-
-%teste
