@@ -77,3 +77,32 @@ sh vlc.sh
 ~~~
 sh gparted.sh
 ~~~
+
+### [Instalar CUDA](https://github.com/henriqelol/Ubuntu18.04/blob/master/cuda.sh)
+~~~
+sh cuda.sh
+~~~
+### [Instalar Eclipse](https://github.com/henriqelol/Ubuntu18.04/blob/master/eclipse.sh)
+~~~
+sh eclipse.sh
+~~~
+### [Instalar Firewall](https://github.com/henriqelol/Ubuntu18.04/blob/master/firewall.sh)
+~~~
+sh firewall.sh
+~~~
+### [Instalar GIT](https://github.com/henriqelol/Ubuntu18.04/blob/master/git.sh)
+~~~
+sh git.sh
+~~~
+### [Instalar LXD](https://github.com/henriqelol/Ubuntu18.04/blob/master/lxd.sh)
+~~~
+sh lxd.sh
+~~~
+### [Instalar Netbeans](https://github.com/henriqelol/Ubuntu18.04/blob/master/netbeans.sh)
+~~~
+sh netbeans.sh
+~~~
+### [Instalar R](https://github.com/henriqelol/Ubuntu18.04/blob/master/r.sh)
+~~~
+sh r.sh
+~~~

@@ -77,6 +77,41 @@ if [[ "$saida" == '1' ]];then
 	echo "Instalar gparted ? [S][N]"
 	read gp
 	[ "$gp" == "S" ] && sh gparted.sh
+	
+	echo ""
+	echo "Instalar cuda ? [S][N]"
+	read cuda
+	[ "$cuda" == "S" ] && sh cuda.sh
+	
+	echo ""
+	echo "Instalar Eclipse ? [S][N]"
+	read eclipse
+	[ "$eclipse" == "S" ] && sh eclipse.sh
+	
+	echo ""
+	echo "Instalar Firewall ? [S][N]"
+	read firewall
+	[ "$firewall" == "S" ] && sh firewall.sh
+	
+	echo ""
+	echo "Instalar Git ? [S][N]"
+	read git
+	[ "$git" == "S" ] && sh git.sh
+	
+	echo ""
+	echo "Instalar LXD ? [S][N]"
+	read lxd
+	[ "$lxd" == "S" ] && sh lxd.sh
+	
+	echo ""
+	echo "Instalar Netbeans ? [S][N]"
+	read netbeans
+	[ "$netbeans" == "S" ] && sh netbeans.sh
+	
+	echo ""
+	echo "Instalar R ? [S][N]"
+	read r
+	[ "$r" == "S" ] && sh r.sh	
 
 	echo ""
 	echo "!!--INSTALAÇÃO FINALIZADA--!!"
@@ -85,16 +120,23 @@ else
 	echo "Execução completa"
 
 	sh atualizacao.sh
-	sh network.sh
-	sh editores.sh
 	sh chrome.sh
-	sh virtualbox.sh
-	sh vagrant.sh
-	sh gufw.sh
-	sh ure.sh
-	sh vlc.sh
+	sh editores.sh
 	sh gparted.sh
-
+	sh gufw.sh
+	sh network.sh
+	sh ure.sh
+	sh vagrant.sh
+	sh virtualbox.sh
+	sh vlc.sh
+	sh cuda.sh
+	sh eclipse.sh
+	sh firewall.sh
+	sh git.sh
+	sh lxd.sh
+	sh netbeans.sh
+	sh r.sh
+	
 	echo ""
 	echo "!!--INSTALAÇÃO FINALIZADA--!!"
 
