@@ -20,8 +20,9 @@ Abaixos os comandos e programas proposto:
 
 ### [Versão da distribuição](https://linuxize.com/post/how-to-check-your-ubuntu-version/)
 ~~~
-[sh versao.sh](https://github.com/henriqelol/Ubuntu18.04/blob/master/versao.sh)
+sh versao.sh
 ~~~
+[.](https://github.com/henriqelol/Ubuntu18.04/blob/master/versao.sh)
 
 ### [Atualizar o Sistema](https://github.com/henriqelol/Ubuntu18.04/blob/master/atualizacao.sh)
 ~~~
