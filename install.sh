@@ -89,7 +89,7 @@ if [[ "$saida" == '1' ]];then
 	[ "$eclipse" == "S" ] && sh eclipse.sh
 	
 	echo ""
-	echo "Instalar Firewall ? [S][N]"
+	echo "Instalar Gufw firewall ? [S][N]"
 	read firewall
 	[ "$firewall" == "S" ] && sh firewall.sh
 	
