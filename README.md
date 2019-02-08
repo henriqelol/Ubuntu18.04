@@ -38,7 +38,7 @@ sh network.sh
 sh git.sh
 ~~~
 
-### [Instalar editores de texto ([VIM](https://www.vim.org/)/[Subl](https://www.sublimetext.com/)<sup>[code](https://github.com/henriqelol/Ubuntu18.04/blob/master/editores.sh)</sup>
+### [Instalar editores de texto (VIM](https://www.vim.org/)/[Subl)](https://www.sublimetext.com/)<sup>[code](https://github.com/henriqelol/Ubuntu18.04/blob/master/editores.sh)</sup>
 ~~~
 sh editores.sh
 ~~~
@@ -102,7 +102,7 @@ sh lxd.sh
 ~~~
 sh netbeans.sh
 ~~~
-### [Instalar R Studio](https://www.rstudio.com)<sub>[code](https://github.com/henriqelol/Ubuntu18.04/blob/master/r.sh)</sub>
+### [Instalar R Studio](https://www.rstudio.com)<sup>[code](https://github.com/henriqelol/Ubuntu18.04/blob/master/r.sh)</sup>
 ~~~
 sh r.sh
 ~~~
