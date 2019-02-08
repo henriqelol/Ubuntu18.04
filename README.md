@@ -1,5 +1,6 @@
 # Instalação de programas básicos para o Ubuntu 18.04
-Este documento apresenta alguns comandos e instalações de programas para o Ubuntu versão 18.04
+Este documento apresenta alguns comandos e instalações de programas para o Ubuntu versão 18.04.
+
 Para executar os programas, realize o clone do git, de permissão para execução e execute conforme sua necessidade:
 ~~~
 git clone https://github.com/henriqelol/Ubuntu18.04.git
@@ -8,19 +9,18 @@ sudo su
 ~~~
 
 #### Nota
-Ative "*Repositórios Parceiros da Canonical*" para ter acesso a alguns programas extras. 
-Para isto vá em *Programas e Atualizações* > *Outros Programas* e selecione a opção "*Parceiros da Canonical*".
+Alguns programas exigem a necessidade de ativação para ter acesso a alguns programas extras, para isto ative "*Repositórios Parceiros da Canonical*". Vá em *Programas e Atualizações* > *Outros Programas* e selecione a opção "*Parceiros da Canonical*".
 
-Para executar todos os programas de uma unica vez, execute os comando:
+Para executar todos os programas de uma única vez, execute os comando:
 ~~~
 bash ./install.sh
 ~~~
 
 Abaixos os comandos e programas proposto:
 
-### [Versão da distribuição](https://github.com/henriqelol/Ubuntu18.04/blob/master/versao.sh)
+### [Versão da distribuição](https://linuxize.com/post/how-to-check-your-ubuntu-version/)
 ~~~
-sh versao.sh
+[sh versao.sh](https://github.com/henriqelol/Ubuntu18.04/blob/master/versao.sh)
 ~~~
 
 ### [Atualizar o Sistema](https://github.com/henriqelol/Ubuntu18.04/blob/master/atualizacao.sh)
