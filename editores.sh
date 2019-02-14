@@ -1,3 +1,7 @@
+apt-get update
+#VIM
 apt -qy install vim
-sh -c 'echo "deb https://download.sublimetext.com/" >> /etc/apt/sources.list'
-apt -qy install sublime
+#Sublime
+wget -qO - https://download.sublimetext.com/sublimehq-pub.gpg | sudo apt-key add -
+echo "deb https://download.sublimetext.com/ apt/stable/" | sudo tee /etc/apt/sources.list.d/sublime-text.list
+sudo apt-get install sublime-text

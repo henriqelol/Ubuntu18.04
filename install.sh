@@ -129,3 +129,5 @@ else
 	echo "!!--INSTALAÇÃO FINALIZADA--!!"
 
 fi
+
+echo "Instalar o HTOP !!"
